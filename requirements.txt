@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+pandas
+tqdm
+huggingface_hub
+pycocotools; platform_system!="Windows" or sys_platform=="win32"

@@ -1,0 +1,20 @@
+# Dataset
+train/
+valid/
+test/
+dataset/
+
+# Env
+venv/
+
+# Outputs
+results/
+outputs/
+
+# Large files
+*.mp4
+*.zip
+*.pt
+
+# Python
+__pycache__/
